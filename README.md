@@ -86,7 +86,7 @@ const chuboyax = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChuBoyax&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE" alt="github streak" />
 
 </div>
-
+ 
 ---
 
 ## 🚀 Featured Projects
@@ -96,10 +96,10 @@ const chuboyax = {
 <div align="center">
 
 <a href="https://github.com/ChuBoyax/yaxdevthreejs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChuBoyax&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6" alt="project one" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChuBoyax&repo=yaxdevthreejs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6" alt="project one" />
 </a>
 <a href="https://github.com/ChuBoyax/ltspb">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChuBoyax&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6" alt="project two" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChuBoyax&repo=ltspb&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6" alt="project two" />
 </a>
  
 </div>
