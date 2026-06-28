@@ -95,13 +95,13 @@ const chuboyax = {
 
 <div align="center">
 
-<a href="https://github.com/ChuBoyax/REPO_NAME">
+<a href="https://github.com/ChuBoyax/yaxdevthreejs">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChuBoyax&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6" alt="project one" />
 </a>
-<a href="https://github.com/ChuBoyax/REPO_NAME">
+<a href="https://github.com/ChuBoyax/ltspb">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChuBoyax&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6" alt="project two" />
 </a>
-
+ 
 </div>
 
 ---
