@@ -1,17 +1,17 @@
 <!-- ====================================================== -->
-<!--  PALITAN: ChuBoyax → username/details mo kung kailangan -->
+<!--  Replace: ChuBoyax → your own username / details       -->
 <!-- ====================================================== -->
 
 <div align="center">
 
-<!-- Waving header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ChuBoyax&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=22" alt="header" />
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=ChuBoyax&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20•%20End-to-End%20Builder&descAlignY=54&descSize=20" alt="header" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+clean%2C+modern+web+apps;Frontend+%2B+Backend+%3D+End-to-End;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%F0%9F%92%BB;Crafting+clean%2C+modern+web+apps;Frontend+%2B+Backend+%3D+End-to-End;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Profile views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=ChuBoyax&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=ChuBoyax&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="profile views" />
 <a href="https://github.com/ChuBoyax?tab=followers">
   <img src="https://img.shields.io/github/followers/ChuBoyax?label=Followers&style=for-the-badge&color=22D3EE&logo=github" alt="followers" />
 </a>
@@ -25,23 +25,23 @@
 ```ts
 const chuboyax = {
   role: "Full-Stack Developer",
-  location: "Philippines 🇵🇭",          // PALITAN kung gusto mo
+  location: "Philippines 🇵🇭",
   focus: ["Web Apps", "Clean UI", "Scalable APIs"],
   currentlyLearning: "Always something new 📚",
   motto: "Code clean, ship fast, keep improving.",
 };
 ```
 
-- 🔭 Full-stack — kaya ko galawin mula frontend hanggang backend
-- 🌱 Laging may natututunang bagong tech
-- 💬 Tanungin mo ako tungkol sa **web development**
-- ⚡ Fun fact: *(lagay mo dito ang fun fact mo)*
+- 🔭 Full-stack developer — comfortable from frontend to backend
+- 🌱 Constantly exploring and learning new technologies
+- 💬 Ask me anything about **web development**
+- ⚡ Fun fact: *(add your fun fact here)*
 
 ---
 
 ## 🛠️ Tech Stack
 
-<!-- PALITAN/idagdag/burahin ayon sa actual mong gamit -->
+<!-- Replace / add / remove based on what you actually use -->
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -97,11 +97,28 @@ const chuboyax = {
 
 ---
 
+## 🚀 Featured Projects
+
+<!-- Replace REPO_NAME with your actual repository names -->
+
+<div align="center">
+
+<a href="https://github.com/ChuBoyax/REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChuBoyax&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6" alt="project one" />
+</a>
+<a href="https://github.com/ChuBoyax/REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChuBoyax&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6" alt="project two" />
+</a>
+
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<!-- PALITAN ang mga link sa loob ng href="" -->
+<!-- Replace the links inside each href="" -->
 <a href="https://github.com/ChuBoyax">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
@@ -111,7 +128,7 @@ const chuboyax = {
 <a href="#">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" />
 </a>
-<a href="mailto:youremail@example.com">
+<a href="mailto:boyet@creativedevlabs.dev">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
 
@@ -120,6 +137,8 @@ const chuboyax = {
 ---
 
 <div align="center">
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
 
