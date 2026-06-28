@@ -35,7 +35,7 @@ const chuboyax = {
 - 🔭 Full-stack developer — comfortable from frontend to backend
 - 🌱 Constantly exploring and learning new technologies
 - 💬 Ask me anything about **web development**
-- ⚡ Fun fact: *(add your fun fact here)*
+- ⚡ Fun fact: I love turning ideas into clean, working products — and I learn something new with every project
 
 ---
 
@@ -87,23 +87,6 @@ const chuboyax = {
 
 </div>
  
----
-
-## 🚀 Featured Projects
-
-<!-- Replace REPO_NAME with your actual repository names -->
-
-<div align="center">
-
-<a href="https://github.com/ChuBoyax/yaxdevthreejs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChuBoyax&repo=yaxdevthreejs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6" alt="project one" />
-</a>
-<a href="https://github.com/ChuBoyax/ltspb">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChuBoyax&repo=ltspb&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6" alt="project two" />
-</a>
- 
-</div>
-
 ---
 
 ## 🤝 Connect With Me
